@@ -2,7 +2,7 @@
 
 ## Description
 
-The Image Hover Effect project is a simple web page created using HTML and CSS that demonstrates an image with a hover effect. When the user hovers over the image, it triggers a transformation effect, such as scaling or changing the image's color. This project serves as a showcase of how CSS can be used to create interactive and visually appealing effects on web elements.
+The Image Hover Effect project is a simple web page created using HTML and CSS that demonstrates an image with a hover effect. When the user hovers over the image, it triggers a transformation effect, such as showing the hover image. This project serves as a showcase of how CSS can be used to create interactive and visually appealing effects on web elements.
 
 ## Features
 
