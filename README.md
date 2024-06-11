@@ -21,7 +21,7 @@ To view the project locally, follow these steps:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/on-image-mouseover-project.git
+    git clone https://github.com/aahmadshaik/Image-ONMOUSEOVER.git
     cd on-image-mouseover-project
     ```
 
