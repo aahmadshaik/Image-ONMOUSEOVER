@@ -1,32 +1,34 @@
-# Image Hover Effect
+# On Image Mouseover Project
 
-## Description
+## Overview
 
-The Image Hover Effect project is a simple web page created using HTML and CSS that demonstrates an image with a hover effect. When the user hovers over the image, it triggers a transformation effect, such as showing the hover image. This project serves as a showcase of how CSS can be used to create interactive and visually appealing effects on web elements.
+The "On Image Mouseover" project is a simple web page that demonstrates the effect of enlarging an image when the user hovers over it with the mouse. When the user clicks on a small image, the larger version of the image is displayed with a smooth transition effect.
 
 ## Features
 
-- **Hover Effect**: When the user hovers over the image, it triggers a CSS transition or animation to create an interactive effect.
-- **Responsive Design**: The web page is designed to be responsive, ensuring that the hover effect works well on different screen sizes and devices.
-
-## Technologies Used
-
-- **HTML**: Provides the structure of the web page.
-- **CSS**: Implements the styling and hover effect for the image.
+- **Image Enlargement**: Small images are displayed initially, and when hovered over, they are enlarged for better viewing.
+- **Smooth Transition**: The transition from the small image to the larger version is smooth and visually appealing.
 
 ## Usage
 
-1. Clone this repository to your local machine using:
-    ```bash
-    git clone https://github.com/your-username/image-hover-effect.git
+1. **Hover Effect**: Move the mouse cursor over a small image to see it enlarge.
+2. **Click Effect**: Click on a small image to display the larger version with a smooth transition effect.
+
+## Installation
+
+To view the project locally, follow these steps:
+
+1. Clone the repository:
+
+    ```sh
+    git clone https://github.com/yourusername/on-image-mouseover-project.git
+    cd on-image-mouseover-project
     ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd image-hover-effect
-    ```
+2. Open the `index.html` file in your web browser.
 
-3. Open the `index.html` file in your web browser to view the Image Hover Effect in action.
+## License
 
-## File Structure
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+Thank you for exploring the On Image Mouseover Project!
